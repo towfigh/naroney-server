@@ -1,0 +1,643 @@
+[10-Dec-2022 17:23:46 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:23:52 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:23:54 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:24:43 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:25:12 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:25:52 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:25:52 Asia/Tehran] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/rygysdzw/api/admin/login.php on line 6
+[10-Dec-2022 17:27:43 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:27:43 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:27:43 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:28:38 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:33:20 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:33:20 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/admin/login.php:3) in /home/rygysdzw/api/admin/login.php on line 7
+[10-Dec-2022 17:33:21 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:33:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/admin/login.php:3) in /home/rygysdzw/api/admin/login.php on line 7
+[10-Dec-2022 17:33:26 Asia/Tehran] PHP Warning:  Creating default object from empty value in /home/rygysdzw/api/admin/login.php on line 3
+[10-Dec-2022 17:33:26 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/admin/login.php:3) in /home/rygysdzw/api/admin/login.php on line 7
+[11-Dec-2022 14:03:32 Asia/Tehran] PHP Fatal error:  Call to undefined function response() in /home/rygysdzw/api/admin/login.php on line 7
+[11-Dec-2022 16:49:23 Asia/Tehran] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:49:23 Asia/Tehran] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:49:23 Asia/Tehran] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:53:33 Asia/Tehran] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:53:33 Asia/Tehran] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:53:33 Asia/Tehran] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:54:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 5
+[11-Dec-2022 16:54:56 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 16:54:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 5
+[11-Dec-2022 16:54:57 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 16:55:38 Asia/Tehran] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:55:38 Asia/Tehran] PHP Warning:  require_once(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:55:38 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'https://api.naroneymeson.ir/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:30 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 5
+[11-Dec-2022 16:58:30 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 16:58:37 Asia/Tehran] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:37 Asia/Tehran] PHP Warning:  require_once(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'https://api.naroneymeson.ir/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:39 Asia/Tehran] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:39 Asia/Tehran] PHP Warning:  require_once(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:39 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'https://api.naroneymeson.ir/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:43 Asia/Tehran] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:43 Asia/Tehran] PHP Warning:  require_once(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:58:43 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'https://api.naroneymeson.ir/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:59:37 Asia/Tehran] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:59:37 Asia/Tehran] PHP Warning:  require_once(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 16:59:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'https://api.naroneymeson.ir/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:02:59 Asia/Tehran] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:02:59 Asia/Tehran] PHP Warning:  require_once(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:02:59 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'https://api.naroneymeson.ir/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:04:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 5
+[11-Dec-2022 17:04:34 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 17:04:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 5
+[11-Dec-2022 17:04:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rygysdzw/api/db.php:13) in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 17:04:45 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:04:45 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:04:52 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:04:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:05:50 Asia/Tehran] PHP Warning:  require_once(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:05:50 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:05:58 Asia/Tehran] PHP Warning:  require_once(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:05:58 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:06:06 Asia/Tehran] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:06:06 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:06:33 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:06:33 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:06:35 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:06:35 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:12 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:12 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:15 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:15 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:17 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:17 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:21 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:07:21 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:14 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:14 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:17 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:17 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:19 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:19 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:54 Asia/Tehran] PHP Warning:  require_once(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:08:54 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[11-Dec-2022 17:09:09 Asia/Tehran] PHP Warning:  require(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 17:09:09 Asia/Tehran] PHP Fatal error:  require(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 17:10:27 Asia/Tehran] PHP Warning:  require(/../db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 17:10:27 Asia/Tehran] PHP Fatal error:  require(): Failed opening required '/../db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 6
+[11-Dec-2022 17:44:20 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:44:45 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:45:15 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:45:27 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:45:56 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:47:58 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:48:25 Asia/Tehran] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:56:05 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:57:17 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:57:25 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 17:58:03 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/admin/login.php on line 13
+[11-Dec-2022 18:12:00 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rygysdzw_nn_root'@'localhost' to database 'rygysdzw_na3roney' in /home/rygysdzw/api/db.php on line 8
+[11-Dec-2022 18:12:00 Asia/Tehran] PHP Fatal error:  Call to a member function query() on boolean in /home/rygysdzw/api/admin/login.php on line 14
+[11-Dec-2022 18:15:48 Asia/Tehran] PHP Fatal error:  Call to undefined method mysqli::mysqli_query() in /home/rygysdzw/api/admin/login.php on line 14
+[11-Dec-2022 18:16:20 Asia/Tehran] PHP Fatal error:  Call to undefined method mysqli::mysqli_query() in /home/rygysdzw/api/admin/login.php on line 14
+[11-Dec-2022 18:16:22 Asia/Tehran] PHP Fatal error:  Call to undefined method mysqli::mysqli_query() in /home/rygysdzw/api/admin/login.php on line 14
+[11-Dec-2022 18:16:24 Asia/Tehran] PHP Fatal error:  Call to undefined method mysqli::mysqli_query() in /home/rygysdzw/api/admin/login.php on line 14
+[11-Dec-2022 18:36:16 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/rygysdzw/api/admin/login.php on line 26
+[11-Dec-2022 19:01:30 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$sql2' (T_VARIABLE) in /home/rygysdzw/api/admin/login.php on line 32
+[11-Dec-2022 19:02:06 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$sql2' (T_VARIABLE) in /home/rygysdzw/api/admin/login.php on line 32
+[11-Dec-2022 19:15:10 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 23
+[11-Dec-2022 19:17:54 Asia/Tehran] PHP Parse error:  syntax error, unexpected '}' in /home/rygysdzw/api/admin/login.php on line 21
+[11-Dec-2022 19:18:13 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 30
+[11-Dec-2022 19:18:17 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 30
+[11-Dec-2022 19:18:21 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 30
+[11-Dec-2022 19:19:31 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 32
+[11-Dec-2022 19:27:42 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 33
+[11-Dec-2022 19:27:44 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 33
+[11-Dec-2022 19:27:58 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 31
+[11-Dec-2022 19:28:05 Asia/Tehran] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/rygysdzw/api/admin/login.php on line 31
+[11-Dec-2022 20:12:49 Asia/Tehran] PHP Warning:  Missing argument 3 for response(), called in /home/rygysdzw/api/admin/login.php on line 28 and defined in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:18:34 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:19:04 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:19:17 Asia/Tehran] PHP Warning:  include_once(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:19:17 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:19:17 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:20:11 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:20:11 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:20:11 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:22:11 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:25:59 Asia/Tehran] PHP Warning:  require(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:25:59 Asia/Tehran] PHP Warning:  require(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:25:59 Asia/Tehran] PHP Fatal error:  require(): Failed opening required './db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:26:14 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:26:14 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:26:14 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:28:34 Asia/Tehran] PHP Warning:  include_once(/home/rygysdzw/api./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:28:34 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/home/rygysdzw/api./db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:28:34 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:32:01 Asia/Tehran] PHP Warning:  include(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:32:02 Asia/Tehran] PHP Warning:  include(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:32:02 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:32:48 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:33:08 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:33:09 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:33:21 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:33:35 Asia/Tehran] PHP Warning:  include(../api/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:33:36 Asia/Tehran] PHP Warning:  include(../api/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:33:36 Asia/Tehran] PHP Warning:  include(): Failed opening '../api/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:33:36 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:34:18 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:35:58 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:35:58 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:35:58 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:38:51 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:38:51 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:38:51 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/admin/login.php on line 11
+[14-Dec-2022 23:39:38 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:39:38 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:39:38 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 41
+[14-Dec-2022 23:43:10 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:43:10 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:43:10 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 40
+[14-Dec-2022 23:43:12 Asia/Tehran] PHP Warning:  include_once(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:43:12 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[14-Dec-2022 23:43:12 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 40
+[14-Dec-2022 23:48:41 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 40
+[14-Dec-2022 23:50:26 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[14-Dec-2022 23:51:19 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[14-Dec-2022 23:54:37 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[14-Dec-2022 23:54:38 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[14-Dec-2022 23:55:30 Asia/Tehran] PHP Warning:  include_once(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 8
+[14-Dec-2022 23:55:30 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 8
+[14-Dec-2022 23:55:30 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[14-Dec-2022 23:59:04 Asia/Tehran] PHP Warning:  include_once(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 4
+[14-Dec-2022 23:59:04 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 4
+[14-Dec-2022 23:59:04 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:00:43 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:01:11 Asia/Tehran] PHP Warning:  require(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 4
+[15-Dec-2022 00:01:11 Asia/Tehran] PHP Warning:  require(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 4
+[15-Dec-2022 00:01:11 Asia/Tehran] PHP Fatal error:  require(): Failed opening required './db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 4
+[15-Dec-2022 00:03:21 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:03:51 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:03:51 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:05:53 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:12:36 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:13:29 Asia/Tehran] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/rygysdzw/api/functions.php on line 4
+[15-Dec-2022 00:13:29 Asia/Tehran] PHP Warning:  include(https://api.naroneymeson.ir/db.php): failed to open stream: no suitable wrapper could be found in /home/rygysdzw/api/functions.php on line 4
+[15-Dec-2022 00:13:29 Asia/Tehran] PHP Warning:  include(): Failed opening 'https://api.naroneymeson.ir/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 4
+[15-Dec-2022 00:13:29 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 10
+[15-Dec-2022 00:14:27 Asia/Tehran] PHP Warning:  include(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:14:27 Asia/Tehran] PHP Warning:  include(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:14:27 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:16:52 Asia/Tehran] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:16:52 Asia/Tehran] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:16:52 Asia/Tehran] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:16:52 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:18:04 Asia/Tehran] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:18:04 Asia/Tehran] PHP Warning:  include(./db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:18:04 Asia/Tehran] PHP Warning:  include(): Failed opening './db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:18:04 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:18:18 Asia/Tehran] PHP Warning:  include(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:18:18 Asia/Tehran] PHP Warning:  include(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:18:18 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:22:14 Asia/Tehran] PHP Warning:  require(/db.php): failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:22:14 Asia/Tehran] PHP Fatal error:  require(): Failed opening required '/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:22:24 Asia/Tehran] PHP Fatal error:  Call to a member function query() on null in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:29:03 Asia/Tehran] PHP Warning:  include(/db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:29:03 Asia/Tehran] PHP Warning:  include(): Failed opening '/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:29:03 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:29:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:34:19 Asia/Tehran] PHP Warning:  include_once(../db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:34:19 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:34:19 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:34:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:34:32 Asia/Tehran] PHP Warning:  include_once(./db/db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:34:32 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:34:32 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:34:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:36:47 Asia/Tehran] PHP Warning:  include_once(./db/db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:36:47 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:36:47 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:36:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:37:15 Asia/Tehran] PHP Warning:  include_once(./db/db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:37:15 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 00:37:15 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:37:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:38:08 Asia/Tehran] PHP Warning:  include_once(./db/db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:38:08 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:38:08 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/rygysdzw/api/admin/login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 14
+[15-Dec-2022 00:38:15 Asia/Tehran] PHP Warning:  include_once(./db/db.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:38:15 Asia/Tehran] PHP Warning:  include_once(): Failed opening './db/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:38:15 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:38:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 00:46:04 Asia/Tehran] PHP Warning:  include_once(../db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:46:04 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:46:04 Asia/Tehran] PHP Warning:  include_once(/db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:46:04 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:46:04 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:46:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:46:44 Asia/Tehran] PHP Warning:  include_once(../db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:46:44 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:46:44 Asia/Tehran] PHP Warning:  include_once(/db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:46:44 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:46:44 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:46:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:47:10 Asia/Tehran] PHP Warning:  include_once(../db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:47:10 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:47:10 Asia/Tehran] PHP Warning:  include_once(/db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:47:10 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:47:10 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:47:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:47:18 Asia/Tehran] PHP Warning:  include_once(../db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:47:18 Asia/Tehran] PHP Warning:  include_once(): Failed opening '../db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/admin/login.php on line 3
+[15-Dec-2022 00:47:18 Asia/Tehran] PHP Warning:  include_once(/db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:47:18 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:47:18 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:47:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 00:47:38 Asia/Tehran] PHP Warning:  include_once(/db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 00:47:38 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 12:08:05 Asia/Tehran] PHP Warning:  include_once(/db/database.php): Failed to open stream: No such file or directory in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 12:08:05 Asia/Tehran] PHP Warning:  include_once(): Failed opening '/db/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/rygysdzw/api/functions.php on line 3
+[15-Dec-2022 12:08:05 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:08:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:14:09 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:14:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(18): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:14:44 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:14:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:15:10 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:15:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:15:11 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:15:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:17:35 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:17:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:17:51 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:17:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:17:52 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:17:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:8
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 8
+[15-Dec-2022 12:26:31 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:7
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 7
+[15-Dec-2022 12:26:58 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:7
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 7
+[15-Dec-2022 12:26:59 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:7
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 7
+[15-Dec-2022 12:28:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function response() in /home/rygysdzw/api/admin/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 15
+[15-Dec-2022 12:28:29 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:7
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 7
+[15-Dec-2022 12:30:38 Asia/Tehran] PHP Warning:  Undefined variable $func_conn in /home/rygysdzw/api/functions.php on line 11
+[15-Dec-2022 12:30:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:11
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 11
+[15-Dec-2022 12:34:51 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/functions.php on line 9
+[15-Dec-2022 12:34:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/functions.php:9
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 9
+[15-Dec-2022 12:35:08 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:6
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:35:10 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:6
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:35:27 Asia/Tehran] PHP Fatal error:  Constant expression contains invalid operations in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:36:07 Asia/Tehran] PHP Fatal error:  Constant expression contains invalid operations in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:36:34 Asia/Tehran] PHP Fatal error:  Constant expression contains invalid operations in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:36:35 Asia/Tehran] PHP Fatal error:  Constant expression contains invalid operations in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:37:54 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getContactInfo(), 0 passed in /home/rygysdzw/api/admin/login.php on line 15 and exactly 1 expected in /home/rygysdzw/api/functions.php:6
+Stack trace:
+#0 /home/rygysdzw/api/admin/login.php(15): getContactInfo()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 6
+[15-Dec-2022 12:40:32 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 12:40:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 12:55:00 Asia/Tehran] PHP Warning:  Undefined variable $conn in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 12:55:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/rygysdzw/api/admin/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/login.php on line 11
+[15-Dec-2022 16:51:50 Asia/Tehran] PHP Warning:  Array to string conversion in /home/rygysdzw/api/admin/editContact.php on line 24
+[15-Dec-2022 19:05:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "value" in /home/rygysdzw/api/functions.php:24
+Stack trace:
+#0 /home/rygysdzw/api/admin/editContact.php(25): editContactInfo('021-77714356', '09122803157', '09124039582', '\xD8\xAA\xD9\x87\xD8\xB1\xD8\xA7\xD9\x86 - \xD9\x81...', '@naroney.meson', 'naroneymeson@gm...', '2022-12-15 15:3...')
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 24
+[16-Dec-2022 19:53:57 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/rygysdzw/api/admin/login.php on line 11
+[16-Dec-2022 19:54:00 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/rygysdzw/api/admin/login.php on line 11
+[16-Dec-2022 19:54:02 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/rygysdzw/api/admin/login.php on line 11
+[16-Dec-2022 23:36:03 Asia/Tehran] PHP Warning:  Undefined array key "date" in /home/rygysdzw/api/admin/addCategory.php on line 11
+[16-Dec-2022 23:38:10 Asia/Tehran] PHP Warning:  Attempt to read property "image" on null in /home/rygysdzw/api/admin/addCategory.php on line 18
+[16-Dec-2022 23:39:57 Asia/Tehran] PHP Warning:  Attempt to read property "image" on null in /home/rygysdzw/api/admin/addCategory.php on line 16
+[16-Dec-2022 23:39:57 Asia/Tehran] PHP Warning:  Undefined array key 1 in /home/rygysdzw/api/admin/addCategory.php on line 19
+[16-Dec-2022 23:39:57 Asia/Tehran] PHP Warning:  Undefined array key 1 in /home/rygysdzw/api/admin/addCategory.php on line 20
+[16-Dec-2022 23:39:57 Asia/Tehran] PHP Warning:  Undefined variable $DIR in /home/rygysdzw/api/admin/addCategory.php on line 22
+[16-Dec-2022 23:41:41 Asia/Tehran] PHP Warning:  Attempt to read property "image" on null in /home/rygysdzw/api/admin/addCategory.php on line 16
+[16-Dec-2022 23:41:41 Asia/Tehran] PHP Warning:  Undefined array key 1 in /home/rygysdzw/api/admin/addCategory.php on line 19
+[16-Dec-2022 23:41:41 Asia/Tehran] PHP Warning:  Undefined array key 1 in /home/rygysdzw/api/admin/addCategory.php on line 20
+[16-Dec-2022 23:41:41 Asia/Tehran] PHP Warning:  Undefined variable $DIR in /home/rygysdzw/api/admin/addCategory.php on line 22
+[16-Dec-2022 23:47:47 Asia/Tehran] PHP Warning:  Attempt to read property "image" on null in /home/rygysdzw/api/admin/addCategory.php on line 16
+[16-Dec-2022 23:47:47 Asia/Tehran] PHP Warning:  Undefined array key 1 in /home/rygysdzw/api/admin/addCategory.php on line 19
+[16-Dec-2022 23:47:47 Asia/Tehran] PHP Warning:  Undefined array key 1 in /home/rygysdzw/api/admin/addCategory.php on line 20
+[16-Dec-2022 23:47:47 Asia/Tehran] PHP Warning:  Undefined variable $DIR in /home/rygysdzw/api/admin/addCategory.php on line 22
+[17-Dec-2022 00:07:44 Asia/Tehran] PHP Warning:  Undefined variable $DIR in /home/rygysdzw/api/admin/addCategory.php on line 22
+[17-Dec-2022 00:09:01 Asia/Tehran] PHP Warning:  file_put_contents(https://api.naroneymeson.ir/admin/639cd7656a85a.png): Failed to open stream: HTTP wrapper does not support writeable connections in /home/rygysdzw/api/admin/addCategory.php on line 25
+[17-Dec-2022 00:09:32 Asia/Tehran] PHP Warning:  file_put_contents(https://api.naroneymeson.ir/admin/639cd78455a71.png): Failed to open stream: HTTP wrapper does not support writeable connections in /home/rygysdzw/api/admin/addCategory.php on line 29
+[17-Dec-2022 00:09:37 Asia/Tehran] PHP Warning:  file_put_contents(https://api.naroneymeson.ir/admin/639cd7898f416.png): Failed to open stream: HTTP wrapper does not support writeable connections in /home/rygysdzw/api/admin/addCategory.php on line 29
+[17-Dec-2022 17:16:48 Asia/Tehran] PHP Warning:  Undefined variable $lastCategory in /home/rygysdzw/api/admin/addCategory.php on line 40
+[17-Dec-2022 17:17:09 Asia/Tehran] PHP Warning:  Undefined variable $lastCategory in /home/rygysdzw/api/admin/addCategory.php on line 40
+[17-Dec-2022 17:17:11 Asia/Tehran] PHP Warning:  Undefined variable $lastCategory in /home/rygysdzw/api/admin/addCategory.php on line 40
+[17-Dec-2022 17:17:32 Asia/Tehran] PHP Warning:  Undefined variable $lastCategory in /home/rygysdzw/api/admin/addCategory.php on line 40
+[17-Dec-2022 17:17:36 Asia/Tehran] PHP Warning:  Undefined variable $lastCategory in /home/rygysdzw/api/admin/addCategory.php on line 40
+[17-Dec-2022 17:47:30 Asia/Tehran] PHP Warning:  Undefined variable $lastCategory in /home/rygysdzw/api/admin/addCategory.php on line 37
+[17-Dec-2022 18:17:40 Asia/Tehran] PHP Warning:  Undefined variable $file in /home/rygysdzw/api/admin/addCategory.php on line 30
+[17-Dec-2022 20:30:39 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 88
+[17-Dec-2022 20:30:45 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 88
+[17-Dec-2022 22:21:15 Asia/Tehran] PHP Warning:  unlink(/home/rygysdzw/api/images/category/639e062f3c252.jpg): No such file or directory in /home/rygysdzw/api/functions.php on line 82
+[17-Dec-2022 22:22:03 Asia/Tehran] PHP Warning:  unlink(/home/rygysdzw/api/images/category/639e062f3c252.jpg): No such file or directory in /home/rygysdzw/api/functions.php on line 83
+[18-Dec-2022 19:47:11 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 238
+[19-Dec-2022 19:49:16 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:49:16 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:49:40 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:49:45 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/profile.php on line 5
+[19-Dec-2022 19:49:45 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/profile.php on line 34
+[19-Dec-2022 19:50:10 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:52:09 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:52:09 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:54:11 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 19:54:11 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getUser(), 0 passed in /home/rygysdzw/api/admin/profile.php on line 35 and exactly 2 expected in /home/rygysdzw/api/functions.php:201
+Stack trace:
+#0 /home/rygysdzw/api/admin/profile.php(35): getUser()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 201
+[19-Dec-2022 20:45:58 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 5
+[19-Dec-2022 20:45:58 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 29
+[19-Dec-2022 20:45:58 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 44
+[19-Dec-2022 20:45:58 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 61
+[19-Dec-2022 20:45:59 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 5
+[19-Dec-2022 20:45:59 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 29
+[19-Dec-2022 20:45:59 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 44
+[19-Dec-2022 20:45:59 Asia/Tehran] PHP Warning:  Undefined array key "action" in /home/rygysdzw/api/admin/colors.php on line 61
+[20-Dec-2022 21:57:34 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home/rygysdzw/api/admin/products.php:9
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(9): json_decode(Array)
+#1 {main}
+  thrown in /home/rygysdzw/api/admin/products.php on line 9
+[22-Dec-2022 02:10:30 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/rygysdzw/api/admin/login.php on line 11
+[26-Dec-2022 12:28:36 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[26-Dec-2022 12:28:36 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[26-Dec-2022 12:35:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function response() in /home/rygysdzw/api/admin/products.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/products.php on line 93
+[26-Dec-2022 12:35:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function response() in /home/rygysdzw/api/admin/products.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/products.php on line 93
+[26-Dec-2022 13:10:10 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:10:10 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:10:18 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:10:18 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:20:01 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:20:01 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:20:06 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:20:06 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:20:12 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:20:13 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:24:00 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:24:00 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:24:05 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:24:05 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 180
+[26-Dec-2022 13:46:35 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:46:35 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:48:21 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:48:21 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:52:34 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:52:34 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:55:31 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[26-Dec-2022 13:55:31 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 166
+[31-Dec-2022 00:20:08 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 190
+[31-Dec-2022 00:20:08 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 190
+[31-Dec-2022 00:20:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:20:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:21:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:21:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:21:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:21:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:22:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[31-Dec-2022 00:22:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "products" in /home/rygysdzw/api/functions.php:198
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(93): getAllProducts()
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 198
+[04-Jan-2023 00:11:16 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[04-Jan-2023 00:11:16 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[04-Jan-2023 00:12:04 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[04-Jan-2023 00:12:04 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[04-Jan-2023 00:14:58 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[04-Jan-2023 00:15:08 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 179
+[06-Jan-2023 19:59:01 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 76
+[06-Jan-2023 19:59:44 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 76
+[06-Jan-2023 21:04:36 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 165
+[06-Jan-2023 21:05:21 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 165
+[06-Jan-2023 21:09:47 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 165
+[06-Jan-2023 21:54:43 Asia/Tehran] PHP Warning:  Undefined variable $code in /home/rygysdzw/api/admin/products.php on line 95
+[06-Jan-2023 21:57:06 Asia/Tehran] PHP Warning:  Undefined variable $code in /home/rygysdzw/api/admin/products.php on line 95
+[09-Jan-2023 22:24:49 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:24:49 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:24:55 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:24:55 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:26:10 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:26:10 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:26:51 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:26:51 Asia/Tehran] PHP Warning:  Undefined array key "id" in /home/rygysdzw/api/admin/products.php on line 107
+[09-Jan-2023 22:27:33 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 299
+[09-Jan-2023 22:28:44 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 299
+[09-Jan-2023 22:28:44 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 299
+[09-Jan-2023 22:31:07 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[09-Jan-2023 22:31:07 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[09-Jan-2023 22:31:32 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[09-Jan-2023 22:33:16 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[09-Jan-2023 22:33:16 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[09-Jan-2023 22:33:35 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[09-Jan-2023 22:33:35 Asia/Tehran] PHP Warning:  Attempt to read property "num_rows" on bool in /home/rygysdzw/api/functions.php on line 300
+[22-Jan-2023 20:55:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::sql_query() in /home/rygysdzw/api/functions.php:317
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(108): getProductByCode('63b9d2f66c2d5')
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 317
+[22-Jan-2023 20:55:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::sql_query() in /home/rygysdzw/api/functions.php:317
+Stack trace:
+#0 /home/rygysdzw/api/admin/products.php(108): getProductByCode('63b9d2f66c2d5')
+#1 {main}
+  thrown in /home/rygysdzw/api/functions.php on line 317
+[23-Jan-2023 22:13:49 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 530
+[23-Jan-2023 22:13:49 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 548
+[23-Jan-2023 22:13:49 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 530
+[23-Jan-2023 22:13:49 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 548
+[23-Jan-2023 22:14:06 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 530
+[23-Jan-2023 22:14:06 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 530
+[23-Jan-2023 22:14:06 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 548
+[23-Jan-2023 22:14:06 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 548
+[23-Jan-2023 22:14:38 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 530
+[23-Jan-2023 22:14:38 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 530
+[23-Jan-2023 22:14:43 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 548
+[23-Jan-2023 22:14:43 Asia/Tehran] PHP Warning:  Undefined variable $result in /home/rygysdzw/api/functions.php on line 548
+[24-Jan-2023 00:37:13 Asia/Tehran] PHP Warning:  Undefined array key 0 in /home/rygysdzw/api/functions.php on line 352
+[24-Jan-2023 00:37:13 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/rygysdzw/api/functions.php on line 352
+[24-Jan-2023 18:02:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function deleteMessage() in /home/rygysdzw/api/admin/message.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/message.php on line 54
+[24-Jan-2023 18:04:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function deleteMessage() in /home/rygysdzw/api/admin/message.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/rygysdzw/api/admin/message.php on line 54
+[24-Jan-2023 19:15:47 Asia/Tehran] PHP Warning:  Undefined array key 0 in /home/rygysdzw/api/functions.php on line 352
+[24-Jan-2023 19:15:47 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/rygysdzw/api/functions.php on line 352

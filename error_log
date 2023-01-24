@@ -1,0 +1,1 @@
+[10-Dec-2022 16:21:36 Asia/Tehran] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'rygys5dzw_nn_root'@'localhost' (using password: YES) in /home/rygysdzw/api/db.php on line 7
